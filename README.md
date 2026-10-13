@@ -1,3 +1,28 @@
+# OOP Syllabus
+1. Introduction to Classes and Objects (Java): Introduction, Java Class Libraries,
+Typical Java Development Environment, Memory Concepts, Arithmetic.
+Classes, Objects, Methods and Instance Variables, Declaring a Class with a
+Method and Instantiating an Object of a Class, Declaring a Method, Instance
+variables, set Methods and get Methods, Primitive Types vs. Reference type
+double Types, Initializing Objects with Constructors, floating point numbers.
+Contro Statements and Array
+
+2. Modulization in Java: Java Package, importing packages, Methods: static
+methods, static Fields, scope of declaration, method overloading, and Java API
+packages.
+   
+3. Inheritance and Polymorphism in Java: Inheritance: Super classes and
+Subclasses, protected members, relationship between super classes and
+subclasses, constructors in subclasses, object class. Polymorphism: Abstract
+classes and methods, final methods and classes, polymorphism examples, and
+Interfaces.
+   
+4. Exception-handling: Exception-handling overview, handling Arithmetic
+Exceptions and Input Mismatch Exceptions, when to use exception handling,
+Java exception hierarchy, finally block. Java Iterator Methods Parametrized
+Classes in Java.
+   
+
 # MIETOOP
 Miet OOP Practical
 # Java Programming Practical Programs
